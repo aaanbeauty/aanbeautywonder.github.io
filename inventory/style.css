@@ -1,0 +1,55 @@
+.form
+{
+    background-color: aqua;
+}
+.container-fluid{
+    font-size: 13px;
+    background-color: pink;
+    
+  }
+  p{
+      color:black;
+  }
+  .paragraph{
+      font-size: 15px;
+      text-align: center;
+  }
+  .nav{
+    background-color:black;
+    /* margin-left: 60px; */
+}
+a{
+    color:black;
+}
+.form{
+    background-color: pink;
+}
+.form h1{
+    text-align: center;
+    font-size: 40px;
+}
+.form p{
+    text-align: center;
+    font-size: 15px;
+}
+
+p.para{
+    text-decoration:capitalize;
+    text-shadow: 2px 2px 4px gray;
+    text-align: center;
+    font-size: 25px;
+
+}
+p.para1{
+    text-align: center;
+    font-size: 10px;
+}
+.images{
+    padding-right: 30%;
+}
+.pro{
+    text-align: center;
+}
+.proo1{
+    text-align: center;
+}
